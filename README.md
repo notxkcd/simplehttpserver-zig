@@ -2,6 +2,8 @@
 
 A professional-grade, suckless, and ultra-fast file-serving machine rewritten from Go to pure Zig 0.15.2. This is not just a server; it's an elite development environment in a single tiny binary.
 
+> **Note:** This project was completely **vibe coded using Gemini CLI**.
+
 ## 💎 Elite Features
 
 1.  **💡 Highlight & Scroll**: Automatically pulses the section of the page you just edited in the browser. Never lose your place again.
